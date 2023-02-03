@@ -17,34 +17,32 @@ There are 8523 rows and 12 columns within the dataset
 ![Capture8](https://user-images.githubusercontent.com/118643932/216562060-da5e61c2-d3a0-462a-92df-9d99897f9197.PNG)
 
 ## Methods
-#### Exploratory Data Analysis 1
-![ItemTypes](https://user-images.githubusercontent.com/118643932/216564346-2253f239-05e0-4a39-a0e3-ed43c264ab46.png)
-> This visual explores how many various products there are.
+#### Exploratory Data Analysis 
+![Capture14](https://user-images.githubusercontent.com/118643932/216569090-ec040f4a-1401-4131-98d9-e9a4f18d29cb.PNG)
+> This histogram explores how many various products items there are in the outlets.
 
-#### Exploratory Data Analysis 1
+#### Explanatory Visual 1
+![Capture15](https://user-images.githubusercontent.com/118643932/216569276-7265ee0e-d95e-4c21-b3e2-e7d057296e06.PNG)
+> This visual shows the total average item sales between the different Outlet Area Type. Shows which area type 
 
+#### Explanatory Visual 2
+![Capture16](https://user-images.githubusercontent.com/118643932/216574948-cb01463d-dc11-4f27-a16f-147b154a1e6e.PNG)
+> This visual shows the Total Items Sales and the Item's Visbility. There difference between the two is very similar and Item Visibility looks like it plays a big part on Item Sales.
 
-## Model
+## Machine Learning Models Used
+- Linear Regression Model
+- Decision Tree Regressor Model
 
-Describe your final model
+Linear Regression Model Testing:
+- Test R2 Score: -1.6575880497968222e+19
+- Test RMSE Score: 6762579228318.999
 
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
+Decision Tree Regressor Model Testing:
+- Test R2 Score: 0.5960564372160062
+- Test RMSE: 1055.685
 
 ## Recommendations:
 
 - Looking at the two models, I would have to recommend the Regression Tree model and it has the lowest variance in the y 
-![Uploading ItemTypes.png…]()
 
 - Choosing the Tuned Regression Tree model because it overall has performed better of the two models. 
-
-## Limitations & Next Steps
-
-More of your own text here
-
-
-### For further information
-
-
-For any additional questions, please contact **email**

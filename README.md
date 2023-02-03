@@ -1,16 +1,20 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Sales Prediction 
+## Sales prediction for food items sold at various stores
 
-**Author**: 
+**Author**: Jerico Viloria 
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+Retailer wants to know which stores and products play a big role in increasing sales
 
+### Data Sources:
+Main Data source: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
-### Data:
-Data can include source and high-level description (e.g. # obs)
+There are 8523 rows and 12 columns within the dataset 
 
+## Data Dictionary 
+
+![Capture8](https://user-images.githubusercontent.com/118643932/216562060-da5e61c2-d3a0-462a-92df-9d99897f9197.PNG)
 
 ## Methods
 - Data preparation steps with explanation and justification for choices
@@ -38,8 +42,9 @@ Refer to the metrics to describe how well the model would solve the business pro
 
 ## Recommendations:
 
-More of your own text here
+- Looking at the two models, I would have to recommend the Regression Tree model and it has the lowest variance in the y 
 
+- Choosing the Tuned Regression Tree model because it overall has performed better of the two models. 
 
 ## Limitations & Next Steps
 

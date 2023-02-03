@@ -23,7 +23,7 @@ There are 8523 rows and 12 columns within the dataset
 
 #### Explanatory Visual 1
 ![Capture15](https://user-images.githubusercontent.com/118643932/216569276-7265ee0e-d95e-4c21-b3e2-e7d057296e06.PNG)
-> This visual shows the total average item sales between the different Outlet Area Type. Shows which area type 
+> This visual shows the total average item sales between the different Outlet Area Type.
 
 #### Explanatory Visual 2
 ![Capture16](https://user-images.githubusercontent.com/118643932/216574948-cb01463d-dc11-4f27-a16f-147b154a1e6e.PNG)
